@@ -10,7 +10,6 @@ Your health data will not be passed on to any servers, third parties or used for
 The data is only used by AceIT to provide the functionality outlined above.
 
 
-
 Acceptance of Privacy Policy Terms and Conditions
 
 By using AceIT you consent to the application collecting, processing and presenting the data in accordance 
