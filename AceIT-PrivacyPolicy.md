@@ -1,4 +1,5 @@
-#Privacy Policy
+Privacy Policy
+
 Health Data
 If you allow AceIT to access data from the Health app, with your permission, AceIT will read your entries for Steps, 
 Walking + Running Distance and Heart Rate if such data exist. 
@@ -9,7 +10,8 @@ Your health data will not be passed on to any servers, third parties or used for
 The data is only used by AceIT to provide the functionality outlined above.
 
 
-#Acceptance of Privacy Policy Terms and Conditions
+Acceptance of Privacy Policy Terms and Conditions
+
 By using AceIT you consent to the application collecting, processing and presenting the data in accordance 
 with this privacy policy. If you do not agree with this policy, please do not allow AceIT to access your health data. 
 We reserve the right, at our discretion, to change, modify, add or remove content of this policy at any time.
