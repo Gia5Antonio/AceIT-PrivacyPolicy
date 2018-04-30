@@ -12,6 +12,8 @@ Your health data will not be passed on to any servers, third parties or used for
 
 By using AceIT you consent to the application collecting, processing and presenting the data in accordance with this privacy policy. If you do not agree with this policy, please do not allow AceIT to access your health data. We reserve the right, at our discretion, to change, modify, add or remove content of this policy at any time.
 
+# Description 
+
 AceIT is a tennis app designed for Apple Watch. It turns your Apple Watch into a simple and easy-to-use device in order to track your tennis matches. 
 All matches are stored on your iPhone and you can see a more detailed analysis of them with also more information than the Apple Watch app.
 
